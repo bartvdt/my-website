@@ -2,6 +2,4 @@
 
 Ugly website
 
-Modificaties op branch update-readme
-
-Udated locally
+Update on main on Github before rebase
